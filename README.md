@@ -18,5 +18,5 @@ The notebooks are organized based on Dr. Kevin Murphy's two volumn books: [Proba
 | | Decision Tree | [18_decision_tree_iris.ipynb](https://github.com/imkaywu/ML-from-Scratch/blob/main/18_decision_tree_iris.ipynb) |
 | | Decision Tree | [18_feature_importance_trees_tutorial.ipynb](https://github.com/imkaywu/ML-from-Scratch/blob/main/18_feature_importance_trees_tutorial.ipynb) |
 
-# License
+## License
 MIT License
