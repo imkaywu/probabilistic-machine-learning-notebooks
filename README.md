@@ -16,7 +16,8 @@ The notebooks are organized based on Dr. Kevin Murphy's two volumn books: [Proba
 | **Examplar-based Methods** | KNN | [16_knn_demo.ipynb](https://github.com/imkaywu/ML-from-Scratch/blob/main/16_knn_demo.ipynb) |
 | **Trees,Forest,Bagging,Boosting** | Decision Stump | [18_regression_tree_stumps.ipynb](https://github.com/imkaywu/ML-from-Scratch/blob/main/18_regression_tree_stumps.ipynb) |
 | | Decision Tree | [18_decision_tree_iris.ipynb](https://github.com/imkaywu/ML-from-Scratch/blob/main/18_decision_tree_iris.ipynb) |
-| | Decision Tree | [18_feature_importance_trees_tutorial.ipynb](https://github.com/imkaywu/ML-from-Scratch/blob/main/18_feature_importance_trees_tutorial.ipynb) |
+| | Adaboost | [18_adaboost_from_scratch.ipynb](https://github.com/imkaywu/ML-from-Scratch/blob/main/18_adaboost_from_scratch.ipynb) |
+| | Trees | [18_feature_importance_trees_tutorial.ipynb](https://github.com/imkaywu/ML-from-Scratch/blob/main/18_feature_importance_trees_tutorial.ipynb) |
 
 ## License
 MIT License
