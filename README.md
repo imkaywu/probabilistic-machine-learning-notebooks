@@ -18,7 +18,7 @@ The notebooks are organized based on Dr. Kevin Murphy's two volumn books: [Proba
 | | Decision Tree | [18_decision_tree_iris.ipynb](https://github.com/imkaywu/ML-from-Scratch/blob/main/18_decision_tree_iris.ipynb) |
 | | Adaboost | [18_adaboost_from_scratch.ipynb](https://github.com/imkaywu/ML-from-Scratch/blob/main/18_adaboost_from_scratch.ipynb) |
 | | Trees | [18_feature_importance_trees_tutorial.ipynb](https://github.com/imkaywu/ML-from-Scratch/blob/main/18_feature_importance_trees_tutorial.ipynb) |
-| **Demensionality Reduction** | PCA | [20_pac_tutorial.ipynb](https://github.com/imkaywu/ML-from-Scratch/blob/main/20_pac_tutorial.ipynb) |
+| **Demensionality Reduction** | PCA | [20_pac_tutorial.ipynb](https://github.com/imkaywu/ML-from-scratch/blob/main/20_pca_tutorial.ipynb) |
 | **Clustering** | K means | [21_kmeans_tutorial.ipynb](https://github.com/imkaywu/ML-from-Scratch/blob/main/21_kmeans_tutorial.ipynb) |
 
 ## License
